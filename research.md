@@ -17,6 +17,7 @@ permalink: /research/
 
 ---
 
+<img align="right" src="https://agougher.github.io/images/gallen.jpg" width="300">
 ## Plant pests and diseases
-
+<br clear="right"/> 
 ---
