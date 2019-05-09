@@ -6,4 +6,4 @@ permalink: /research/
 
 FLS
 
-<img src="{{ site.baseurl }}/images/flsphylo.png" width="100">
+<img src="https://agougher.github.io/images/flsphylo.png" width="300">
