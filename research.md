@@ -19,7 +19,7 @@ Which tree species flower before their leaves emerge? Do closely related species
 
 <img align="right" src="https://agougher.github.io/images/gallen.png" width="250">
 ## Plant pests and diseases
-Emerging, invasive, and even native plant pathogens can have dramatic effects on natural and agricultural systems, yet we often lack a strong understanding of what factors limit their expansion and ranges (e.g., dispersal ability? host availability? environment or climate? management practices?). For my MS, I used Plum pox virus (PPV) as a study system to research how the pattern of hosts (i.e., peach and plum orchards) and management practices affected the spatial and temporal spread of PPV in its non-native North American range.  
+Emerging, invasive, and even native plant pathogens can have dramatic effects on natural and agricultural systems, yet we often lack a strong understanding of what factors limit their expansion and ranges (e.g., dispersal ability? host availability? environment or climate? management practices?). For my MS, I used _Plum pox virus_ (PPV) as a study system to research how the pattern of hosts (i.e., peach and plum orchards) and management practices affected the spatial and temporal spread of PPV in its non-native North American range.  
 
 <br clear="right"/> 
 
