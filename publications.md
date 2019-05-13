@@ -3,6 +3,9 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+
+[Google scholar profile](https://scholar.google.com/citations?hl=en&user=rGPZvTIAAAAJ)
+
 ### Peer-reviewed
 1. Gougherty, A.V. and Gougherty, S.W. 2018. Sequence of flower and leaf emergence in deciduous trees is linked to ecological traits, phylogenetics, and climate. New Phytologist 220:121-131. [Here](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15270)
 2. Gougherty, A.V., Keller, S.R., Kruger, A., Stylinski, C.D., Elmore, A.J., and Fitzpatrick, M.C. 2018. Estimating tree phenology from high frequency tree movement data. Agricultural and Forest Meteorology 263: 217-224. Publication [here](https://www.sciencedirect.com/science/article/pii/S0168192318302867), R package [here](https://github.com/agougher/accel)
