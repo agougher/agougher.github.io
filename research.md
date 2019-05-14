@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-<img align="right" src="https://agougher.github.io/images/balsam.png" width="300">
+<img align="right" src="https://agougher.github.io/images/balsam.png" width="250">
 ## Climate change biogeography
 
 <br clear="right"/> 
