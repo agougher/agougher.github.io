@@ -6,6 +6,7 @@ permalink: /research/
 
 <img align="right" src="https://agougher.github.io/images/balsam.png" width="250">
 ## Climate change biogeography
+Tree species are often predicted to need to shift their ranges to keep pace with future climate change. The typical ways of predicting range shifts, however, often do not account for population-level local adaptation to climate, which is a common characteristic of many tree species. Ignoring local adaptation can lead to some uncertainty in the accuracy of species’ predicted future ranges. For my PhD work, I combine genetic information with biogeographical models to (i) assess if including genetic information improves model performance, and (ii) gain new insights into where within the range populations may be most pre- or mal-adapted to future climate conditions. For this work, we use balsam poplar, a wide-ranging northern tree species, as a study system.
 
 <br clear="right"/> 
 
