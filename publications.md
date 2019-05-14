@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-[Google scholar profile](https://scholar.google.com/citations?hl=en&user=rGPZvTIAAAAJ)
+[Google Scholar profile](https://scholar.google.com/citations?hl=en&user=rGPZvTIAAAAJ)
 
 ### Peer-reviewed
 1. Gougherty, A.V. and Gougherty, S.W. 2018. Sequence of flower and leaf emergence in deciduous trees is linked to ecological traits, phylogenetics, and climate. New Phytologist 220:121-131. [Here](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15270)
