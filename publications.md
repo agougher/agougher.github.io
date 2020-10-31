@@ -7,7 +7,7 @@ permalink: /publications/
 [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=rGPZvTIAAAAJ)
 
 ### Peer-reviewed
-1. Gougherty, A.V., Chhatre, V., Keller, S.R., and Fitzpatrick, M.C. 2020. Contemporary range positions predict the range-wide pattern of genetic diversity in balsam poplar (Populus balsamifera L.). Journal of Biogeography 47: 1246-1257. [Here](https://onlinelibrary.wiley.com/doi/10.1111/jbi.13811)
+1. Gougherty, A.V., Chhatre, V., Keller, S.R., and Fitzpatrick, M.C. 2020. Contemporary range positions predict the range-wide pattern of genetic diversity in balsam poplar (_Populus balsamifera_ L.). Journal of Biogeography 47: 1246-1257. [Here](https://onlinelibrary.wiley.com/doi/10.1111/jbi.13811)
 2. Gougherty, A.V. and Gougherty, S.W. 2018. Sequence of flower and leaf emergence in deciduous trees is linked to ecological traits, phylogenetics, and climate. New Phytologist 220:121-131. [Here](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15270)
 3. Gougherty, A.V., Keller, S.R., Kruger, A., Stylinski, C.D., Elmore, A.J., and Fitzpatrick, M.C. 2018. Estimating tree phenology from high frequency tree movement data. Agricultural and Forest Meteorology 263: 217-224. Publication [Here](https://www.sciencedirect.com/science/article/pii/S0168192318302867), R package [Here](https://github.com/agougher/accel)
 4. Eggenberger, S., Diaz-Arias, M.M, Gougherty, A.V., Nutter, F.W., Jr., Sernett, J., and Robertson, A.E. 2016. Dissemination of Goss’s wilt of corn and epiphytic _Clavibacter michiganensis_ subsp. _nebraskensis_ from inoculum point sources. Plant Disease 100:686-695. [Here](https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-04-15-0486-RE)
