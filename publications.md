@@ -12,7 +12,7 @@ permalink: /publications/
 3. Gougherty, A.V. and Davies, T.J. Most tree pests do not fill the geographic range of their hosts. 
 
 ### Peer-reviewed
-1. Gougherty, A.V. and Davies, T.J. 2021. Towards a phylogenetic ecology of plant pests and pathogens. Philosophical Transactions B. [Here] (doi.org/10.1098/rstb.2020-0359)
+1. Gougherty, A.V. and Davies, T.J. 2021. Towards a phylogenetic ecology of plant pests and pathogens. Philosophical Transactions B. [Here](doi.org/10.1098/rstb.2020-0359)
 2. Gougherty, A.V. 2021. Geographic patterns of genetic diversity in North American trees: a continent-wide analysis. Canadian Journal of Forest Research. [Here](https://doi.org/10.1139/cjfr-2020-0539)
 3. Gougherty, A.V., Keller, S.R., Fitzpatrick, M.C. 2021. Maladaptation, migration and extirpation fuel climate change risk in a forest tree species. Nature Climate Change 11: 166–171. [Here](https://www.nature.com/articles/s41558-020-00968-6). Featured as a stand out paper in the 10 year retrospective of Nature Climate Change. [Here](https://www.nature.com/articles/s41558-021-01019-4)
 4. Gougherty, A.V., Chhatre, V., Keller, S.R., and Fitzpatrick, M.C. 2020. Contemporary range positions predict the range-wide pattern of genetic diversity in balsam poplar (_Populus balsamifera_ L.). Journal of Biogeography 47: 1246-1257. [Here](https://onlinelibrary.wiley.com/doi/10.1111/jbi.13811)
