@@ -8,4 +8,4 @@ layout: page
 
 ### Welcome
 
-Welcome to my website! I am a Postdoctoral researcher at the University of British Columbia, where I study the macroecology of plant pests. See the Research page for more information about this and my other research interests.
+Welcome to my website! I am a Postdoctoral researcher at the Purdue University, where I study the landscape-level impacts of plant pests. See the Research page for more information about this and my other research interests.
